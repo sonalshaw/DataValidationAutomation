@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.container {
+    /*border: 1px solid red;*/
+    height: 95vh;
+    display: flex;
+}
+
+.form-container {
+    /*border: 3px solid darkblue;*/
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+}
+
+.login-container {
+    border: 4px solid deepskyblue;
+    width: 500px;
+    aspect-ratio: 1.5;
+    border-radius: 1rem;
+}
