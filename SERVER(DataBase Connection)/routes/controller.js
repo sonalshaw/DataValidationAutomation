@@ -7,7 +7,7 @@ router.post('/startDataBase', (req, res, next) => {
     let account;
 
     if (account_option === 1) {
-        account = 'link1';
+        account = 'st69414.us-east-2';
     } else if (account_option === 2) {
         account = 'link2';
     } else {
